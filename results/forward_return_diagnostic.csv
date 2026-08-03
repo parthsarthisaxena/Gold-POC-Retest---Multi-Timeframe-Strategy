@@ -1,0 +1,5 @@
+horizon_min,n_signals,signal_wr,signal_mean_pct,baseline_mean_pct,n_baseline,t_stat,p_value,significant
+15,830,0.649,0.049,0.0033,5607,7.39,0.0,True
+30,830,0.596,0.0527,0.0045,5607,5.56,0.0,True
+60,830,0.549,0.051,0.0063,5607,3.77,0.0,True
+120,829,0.555,0.0627,0.0105,5607,3.25,0.001,True

@@ -1,0 +1,6 @@
+hour_utc,n_trades,win_rate,avg_R,total_R,session
+11,51,0.647,0.467,23.812,London open
+12,163,0.571,0.293,47.707,London midday
+13,224,0.571,0.25,55.974,London/NY overlap
+14,96,0.656,0.498,47.841,NY open
+15,26,0.654,0.723,18.795,NY morning

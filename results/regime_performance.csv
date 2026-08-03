@@ -1,0 +1,5 @@
+regime,n_trades,win_rate,avg_R,total_R,sharpe,regime_description
+bull_strong,508,0.579,0.317,160.963,4.38,Price > 200-SMA by >1% (strong uptrend)
+bull_moderate,23,0.696,0.501,11.532,8.34,Price > 200-SMA by 0.3–1% (confirmed uptrend)
+bull_weak,15,0.8,0.738,11.064,11.08,Price > 200-SMA by 0–0.3% (just above SMA)
+unknown,14,0.857,0.755,10.57,11.92,Insufficient SMA history (early data)
